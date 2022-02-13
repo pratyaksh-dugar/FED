@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+
+#d1{
+    background-color: blue;
+    border: 5px;
+    padding: 20px;
+    margin: 40px;
+    width: 1000px;
+    height: 200px;
+    text-align: center;
+}
+#d2{
+    background-color: blueviolet;
+    height: 50px;
+}
